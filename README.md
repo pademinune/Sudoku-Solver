@@ -3,12 +3,19 @@ Run "sudoku.py" and then input each row one line at a time. If the position is e
 Sample input (after every row, you need to press enter):
 
 0 7 0 0 5 0 0 0 0
+
 0 0 0 3 0 7 0 6 1
+
 8 0 0 0 3 5 1 0 0
+
 9 3 6 0 0 0 0 0 0
+
 0 0 7 4 0 9 0 0 0
+
 0 6 2 5 1 0 0 8 4
+
 3 0 1 0 9 4 0 0 7
+
 0 5 0 8 7 0 6 1 0
 
 
