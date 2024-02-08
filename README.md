@@ -2,4 +2,4 @@ Run "sudoku.py" and then input each row one line at a time. If the position is e
 
 Note that for the very hard puzzles, it could take up to 2 minutes.
 
-This is the code on replit: https://replit.com/join/rdoultgfpw-justinnitoi
+This is the code on replit (it runs slower than locally): https://replit.com/join/rdoultgfpw-justinnitoi
