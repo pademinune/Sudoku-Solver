@@ -1,4 +1,4 @@
-My sudoku solver made from scratch (no libraries or anything).
+My sudoku solver made from scratch (no libraries or copy-paste code).
 Run "sudoku.py" and then input each row one line at a time. If the position is empty, put a 0, otherwise put the numbers 1 to 9. After putting in 9 rows, it will begin searching for a solution, and then output the solution as a grid seperated by rows and spaces.
 
 Sample input (after every row, you need to press enter):
